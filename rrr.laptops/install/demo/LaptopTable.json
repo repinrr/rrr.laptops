@@ -1,0 +1,130 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Apple Air 1",
+    "YEAR": 2010,
+    "PRICE": 40000,
+    "MODEL_ID": 1,
+    "CODE": "Apple_Air_1"
+  },
+  {
+    "ID": 2,
+    "NAME": "Apple Air 2",
+    "YEAR": 2015,
+    "PRICE": 50000,
+    "MODEL_ID": 1,
+    "CODE": "Apple_Air_2"
+  },
+  {
+    "ID": 3,
+    "NAME": "Apple Pro 1",
+    "YEAR": 2010,
+    "PRICE": 60000,
+    "MODEL_ID": 2,
+    "CODE": "Apple_Pro_1"
+  },
+  {
+    "ID": 4,
+    "NAME": "Apple Pro 2",
+    "YEAR": 2015,
+    "PRICE": 70000,
+    "MODEL_ID": 2,
+    "CODE": "Apple_Pro_2"
+  },
+  {
+    "ID": 5,
+    "NAME": "Samsung Galaxy Book2 Pro 1",
+    "YEAR": 2010,
+    "PRICE": 31000,
+    "MODEL_ID": 3,
+    "CODE": "Samsung_Galaxy_Book2_Pro_1"
+  },
+  {
+    "ID": 6,
+    "NAME": "Samsung Galaxy Book2 Pro 2",
+    "YEAR": 2015,
+    "PRICE": 41000,
+    "MODEL_ID": 3,
+    "CODE": "Samsung_Galaxy_Book2_Pro_2"
+  },
+  {
+    "ID": 7,
+    "NAME": "Samsung Galaxy Book2 Pro 360 1",
+    "YEAR": 2010,
+    "PRICE": 51000,
+    "MODEL_ID": 4,
+    "CODE": "Samsung_Galaxy_Book2_Pro_360_1"
+  },
+  {
+    "ID": 8,
+    "NAME": "Samsung Galaxy Book2 Pro 360 2",
+    "YEAR": 2015,
+    "PRICE": 61000,
+    "MODEL_ID": 4,
+    "CODE": "Samsung_Galaxy_Book2_Pro_360_2"
+  },
+  {
+    "ID": 9,
+    "NAME": "Asus ProArt Studiobook 1",
+    "YEAR": 2010,
+    "PRICE": 32000,
+    "MODEL_ID": 5,
+    "CODE": "Asus_ProArt_Studiobook_1"
+  },
+  {
+    "ID": 10,
+    "NAME": "Asus ProArt Studiobook 2",
+    "YEAR": 2017,
+    "PRICE": 42000,
+    "MODEL_ID": 5,
+    "CODE": "Asus_ProArt_Studiobook_2"
+  },
+  {
+    "ID": 11,
+    "NAME": "Asus Zenbook 1",
+    "YEAR": 2011,
+    "PRICE": 52000,
+    "MODEL_ID": 6,
+    "CODE": "Asus_Zenbook_1"
+  },
+  {
+    "ID": 12,
+    "NAME": "Asus Zenbook 2",
+    "YEAR": 2016,
+    "PRICE": 62000,
+    "MODEL_ID": 6,
+    "CODE": "Asus_Zenbook_2"
+  },
+  {
+    "ID": 13,
+    "NAME": "Dell Inspirion 1",
+    "YEAR": 2012,
+    "PRICE": 33000,
+    "MODEL_ID": 7,
+    "CODE": "Dell_Inspirion_1"
+  },
+  {
+    "ID": 14,
+    "NAME": "Dell Inspirion 2",
+    "YEAR": 2018,
+    "PRICE": 43000,
+    "MODEL_ID": 7,
+    "CODE": "Dell_Inspirion_2"
+  },
+  {
+    "ID": 15,
+    "NAME": "Dell Vostro 1",
+    "YEAR": 2014,
+    "PRICE": 33000,
+    "MODEL_ID": 8,
+    "CODE": "Dell_Vostro_1"
+  },
+  {
+    "ID": 16,
+    "NAME": "Dell Vostro 2",
+    "YEAR": 2020,
+    "PRICE": 43000,
+    "MODEL_ID": 8,
+    "CODE": "Dell_Vostro_2"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Air",
+    "BRAND_ID": 1,
+    "CODE": "Air"
+  },
+  {
+    "ID": 2,
+    "NAME": "Pro",
+    "BRAND_ID": 1,
+    "CODE": "Pro"
+  },
+  {
+    "ID": 3,
+    "NAME": "Galaxy Book2 Pro",
+    "BRAND_ID": 2,
+    "CODE": "Galaxy_Book2_Pro"
+  },
+  {
+    "ID": 4,
+    "NAME": "Galaxy Book2 Pro 360",
+    "BRAND_ID": 2,
+    "CODE": "Galaxy_Book2_Pro_360"
+  },
+  {
+    "ID": 5,
+    "NAME": "ProArt Studiobook",
+    "BRAND_ID": 3,
+    "CODE": "ProArt_Studiobook"
+  },
+  {
+    "ID": 6,
+    "NAME": "Zenbook",
+    "BRAND_ID": 3,
+    "CODE": "Zenbook"
+  },
+  {
+    "ID": 7,
+    "NAME": "Inspirion",
+    "BRAND_ID": 4,
+    "CODE": "Inspirion"
+  },
+  {
+    "ID": 8,
+    "NAME": "Vostro",
+    "BRAND_ID": 4,
+    "CODE": "Vostro"
+  }
+]
